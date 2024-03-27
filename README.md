@@ -11,7 +11,6 @@ This tool is designed to provide summarization capabilities for both English and
 
 ## Contributors
 - Afra A (@Afrah4331)
-- Aliya Shalikar (@AliyaaShalikar)
 - Ishidha Lyka (@ishidha01)
-- Febina Fathima V (@FebinaFathimaV)
+-
 
